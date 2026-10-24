@@ -1,4 +1,4 @@
-//I exceded requirements by storing multiple scriptures in a list and randomly choosing one.
+//I exceeded requirements by storing multiple scriptures in a list and randomly choosing one.
 class Program
 {
     static void Main()
